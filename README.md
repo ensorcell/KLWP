@@ -11,28 +11,15 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
 
  - <a href=#dark-zebra>Dark Zebra</a>
 
-
-
  - <a href=#stacks>Stacks</a>
-
-
 
  - <a href=#zen>Zen</a>
 
  - <a href=#color-wars>Color Wars</a>
 
-
-
-
-
  - <a href=#install-gentoo>Install Gentoo</a>
 
-
-
  - <a href=#grayhorn>Grayhorn</a>
-
-
-
 
 
 #Previews
