@@ -40,14 +40,14 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
 
 
 ##Dark Zebra
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/master/Black%20AMOLED%20Stripes/screener_20160223(14_44_17)%7E01.png" width=56%>
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/dark_zebra.png" width=56%>
 
 
 
 ##Stacks
-<a href="https://raw.githubusercontent.com/ensorcell/KLWP/master/Stacked-Boxes/2016_03_01_14_27_51.webm">
+<a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/stacks.webm">
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/master/Stacked-Boxes/Screenshot_2016-02-29-22-30-36.png" width=56%>
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/stacks.png" width=56%>
 
 </a>
 
@@ -55,18 +55,18 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
 
 ##Zen
 
-<a href="https://raw.githubusercontent.com/ensorcell/KLWP/master/ShinHanga/03.webm">
+<a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/zen.webm">
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/master/ShinHanga/shinh.png" width=56%>
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/zen.png" width=56%>
 
 </a>
 
 
 ##Color Wars
 
-<a href="https://raw.githubusercontent.com/ensorcell/KLWP/master/Star%20Wars/2016_02_10_21_00_29.webm">
+<a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/color_wars.webm">
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/master/Star%20Wars/Screenshot_2016-02-29-22-32-37.png" width=56%>
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/color_wars.png" width=56%>
 
 </a>
 
@@ -75,13 +75,13 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
 
 ##Install Gentoo
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/master/Install%20Gentoo/2016_02_18_16_01_06.png" width=56%>
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/install_gentoo/install_gentoo.png" width=56%>
 
 
 
 ##Grayhorn
-<a href="https://raw.githubusercontent.com/ensorcell/KLWP/master/Grayscale/2016_01_28_13_40_23.webm">
+<a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/grayhorn.webm">
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/master/Grayscale/2016_01_28_13_40_23.png" width=56%>
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/grayhorn.png" width=56%>
 
 </a>
