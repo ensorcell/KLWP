@@ -41,7 +41,7 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
 </a>
 
 
-##Dark Zebra
+##Samori
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/samori.png" width=56%>
 
 
