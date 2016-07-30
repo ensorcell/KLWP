@@ -13,6 +13,8 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
 
  - <a href=#stacks>Stacks</a>
 
+ - <a href=#samori>Samori</a>
+
  - <a href=#zen>Zen</a>
 
  - <a href=#color-wars>Color Wars</a>
@@ -37,6 +39,10 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/stacks.png" width=56%>
 
 </a>
+
+
+##Dark Zebra
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/samori.png" width=56%>
 
 
 
