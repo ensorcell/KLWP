@@ -16,7 +16,7 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
  - <a href=#samori>Samori</a>
 
  - <a href=#cerulean>Cerulean</a>
- - 
+ 
  - <a href=#zen>Zen</a>
 
  - <a href=#color-wars>Color Wars</a>
