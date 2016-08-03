@@ -15,6 +15,8 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
 
  - <a href=#samori>Samori</a>
 
+ - <a href=#cerulean>Cerulean</a>
+ - 
  - <a href=#zen>Zen</a>
 
  - <a href=#color-wars>Color Wars</a>
@@ -35,32 +37,27 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
 
 ##Stacks
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/stacks.webm">
-
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/stacks.png" width=56%>
-
 </a>
 
 
 ##Samori
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/samori.png" width=56%>
 
-
+##Cerulean
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/cerulean/cerulean.jpg" width=56%>
 
 ##Zen
 
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/zen.webm">
-
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/zen.png" width=56%>
-
 </a>
 
 
 ##Color Wars
 
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/color_wars.webm">
-
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/color_wars.png" width=56%>
-
 </a>
 
 
@@ -74,7 +71,5 @@ Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
 
 ##Grayhorn
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/grayhorn.webm">
-
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/grayhorn.png" width=56%>
-
 </a>
