@@ -5,7 +5,7 @@ Custom Android homescreen themes through KLWP
 
 
 
-Visit the [showcase on my website](http://ensorcell.netai.net/homescreens.html)
+Visit the [showcase on my website](http://ensorcell.netau.net/homescreens)
 
 
 
