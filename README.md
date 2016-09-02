@@ -14,10 +14,10 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
  - <a href=#stacks>Stacks</a>
 
  - <a href=#alpine>Alpine</a>
+ 
+ - <a href=#cerulean>Cerulean</a>
 
  - <a href=#samori>Samori</a>
-
- - <a href=#cerulean>Cerulean</a>
  
  - <a href=#zen>Zen</a>
 
@@ -43,33 +43,24 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 ##Alpine
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/alpine/alpine.png" width=56%>
 
-##Samori
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/samori.png" width=56%>
-
 ##Cerulean
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/cerulean/cerulean.jpg" width=56%>
 
-##Zen
+##Samori
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/samori.png" width=56%>
 
+##Zen
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/zen.webm">
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/zen.png" width=56%>
 </a>
 
-
 ##Color Wars
-
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/color_wars.webm">
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/color_wars.png" width=56%>
 </a>
 
-
-
-
 ##Install Gentoo
-
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/install_gentoo/install_gentoo.png" width=56%>
-
-
 
 ##Grayhorn
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/grayhorn.webm">
