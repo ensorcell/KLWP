@@ -19,7 +19,7 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 
  - <a href=#samori>Samori</a>
 
-  - <a href=#color-wars>Color Wars</a>
+ - <a href=#color-wars>Color Wars</a>
  
  - <a href=#zen>Zen</a>
 
