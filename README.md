@@ -18,10 +18,10 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
  - <a href=#cerulean>Cerulean</a>
 
  - <a href=#samori>Samori</a>
+
+  - <a href=#color-wars>Color Wars</a>
  
  - <a href=#zen>Zen</a>
-
- - <a href=#color-wars>Color Wars</a>
 
  - <a href=#install-gentoo>Install Gentoo</a>
 
@@ -49,14 +49,14 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 ##Samori
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/samori.png" width=56%>
 
-##Zen
-<a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/zen.webm">
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/zen.png" width=56%>
-</a>
-
 ##Color Wars
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/color_wars.webm">
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/color_wars.png" width=56%>
+</a>
+
+##Zen
+<a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/zen.webm">
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/zen.png" width=56%>
 </a>
 
 ##Install Gentoo
