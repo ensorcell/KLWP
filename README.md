@@ -41,7 +41,8 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 </a>
 
 ##Alpine
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/alpine/render.png" width=50%><img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/alpine/render_alt.png" width=50%>
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/alpine/render.png" width=50%>
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/alpine/render_alt.png" width=50%>
 
 ##Cerulean
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/cerulean/render.jpg" width=50%>
