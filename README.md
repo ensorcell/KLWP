@@ -13,7 +13,7 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 
  - <a href=#stacks>Stacks</a>
 
- - <a href=#alpine>Plateau</a>
+ - <a href=#plateau>Plateau</a>
  
  - <a href=#cerulean>Cerulean</a>
 
