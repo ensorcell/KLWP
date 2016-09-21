@@ -17,6 +17,8 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
  
  - <a href=#cerulean>Cerulean</a>
 
+  - <a href=#tabs>Tabs</a>
+
  - <a href=#samori>Samori</a>
 
  - <a href=#color-wars>Color Wars</a>
@@ -46,6 +48,9 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 
 ##Cerulean
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/cerulean/render.jpg" width=50%>
+
+##Tabs
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/tabs/render.jpg" width=50%>
 
 ##Samori
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/screen.png" width=50%>
