@@ -49,7 +49,7 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render_alt.png" width=50%>
 
 ##Nepal
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/nepal/render.jpg" width=50%>
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg" width=50%>
 
 ##Cerulean
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/cerulean/render.jpg" width=50%>
