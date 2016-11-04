@@ -15,7 +15,7 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 
  - <a href=#plateau>Plateau</a>
 
- - <a href=#plateau>Nepal</a>
+ - <a href=#plateau>Sky High</a>
  
  - <a href=#cerulean>Cerulean</a>
 
@@ -48,7 +48,7 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render.png" width=50%>
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render_alt.png" width=50%>
 
-##Nepal
+##Sky High
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg" width=50%>
 
 ##Cerulean
