@@ -11,11 +11,11 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 
  - <a href=#dark-zebra>Dark Zebra</a>
 
+ - <a href=#plateau>Sky High</a>
+
  - <a href=#stacks>Stacks</a>
 
  - <a href=#plateau>Plateau</a>
-
- - <a href=#plateau>Sky High</a>
  
  - <a href=#cerulean>Cerulean</a>
 
@@ -39,6 +39,9 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 ##Dark Zebra
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/render.png" width=50%>
 
+##Sky High
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg" width=50%>
+
 ##Stacks
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/webm.webm">
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/render.png" width=50%>
@@ -47,9 +50,6 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 ##Plateau
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render.png" width=50%>
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render_alt.png" width=50%>
-
-##Sky High
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg" width=50%>
 
 ##Cerulean
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/cerulean/render.jpg" width=50%>
