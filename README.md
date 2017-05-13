@@ -9,7 +9,7 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
 
 
 
- - <a href=#dark-zebra>Dark Zebra</a>
+ - <a href=##dark-zebra>Dark Zebra</a>
 
  - <a href=#plateau>Sky High</a>
 
