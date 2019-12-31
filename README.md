@@ -1,34 +1,20 @@
 # KLWP
 
 
-Custom Android homescreen themes through KLWP
-
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/irl.jpg" width=50%>
 
-Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
-
-
+Custom Android homescreen themes on [KLWP](https://play.google.com/store/apps/details?id=org.kustom.wallpaper&hl=en_US)
 
  - <a href=#dark-zebra>Dark Zebra</a>
-
  - <a href=#plateau>Sky High</a>
-
  - <a href=#stacks>Stacks</a>
-
  - <a href=#plateau>Plateau</a>
- 
  - <a href=#cerulean>Cerulean</a>
-
  - <a href=#tabs>Tabs</a>
-
  - <a href=#samori>Samori</a>
-
  - <a href=#color-wars>Color Wars</a>
- 
  - <a href=#zen>Zen</a>
-
  - <a href=#install-gentoo>Install Gentoo</a>
-
  - <a href=#grayhorn>Grayhorn</a>
 
 
