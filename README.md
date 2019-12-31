@@ -22,8 +22,6 @@ I haven't done Android ricing in years but check out [homescreens.org](https://h
 
 # Previews
 
-
-
 ## Dark Zebra
 Simple OLED theme built around zebra stripes
 
