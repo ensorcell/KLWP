@@ -43,7 +43,7 @@ Simple theme that adapts to the background chosen
 
 <div>
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render.png" width=40%>
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render_alt.png" width=40% style="padding-left: 80px;">
+<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render_alt.png" width=40%>
 </div>
 
 ## Cerulean
