@@ -32,48 +32,48 @@ Visit the [showcase on my website](http://ensorcell.github.io/homescreen)
  - <a href=#grayhorn>Grayhorn</a>
 
 
-#Previews
+# Previews
 
 
 
-##Dark Zebra
+## Dark Zebra
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/render.png" width=50%>
 
-##Sky High
+## Sky High
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg" width=50%>
 
-##Stacks
+## Stacks
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/webm.webm">
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/render.png" width=50%>
 </a>
 
-##Plateau
+## Plateau
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render.png" width=50%>
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render_alt.png" width=50%>
 
-##Cerulean
+## Cerulean
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/cerulean/render.jpg" width=50%>
 
-##Tabs
+## Tabs
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/tabs/render.png" width=50%>
 
-##Samori
+## Samori
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/screen.png" width=50%>
 
-##Color Wars
+## Color Wars
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/webm.webm">
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/screen.png" width=50%>
 </a>
 
-##Zen
+## Zen
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/webm.webm">
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/screen.png" width=50%>
 </a>
 
-##Install Gentoo
+## Install Gentoo
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/install_gentoo/screen.png" width=50%>
 
-##Grayhorn
+## Grayhorn
 <a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/webm.webm">
 <img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/screen.png" width=50%>
 </a>
