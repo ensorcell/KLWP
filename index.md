@@ -24,65 +24,55 @@ I haven't done Android ricing in years but check out [homescreens.org](https://h
 ## Dark Zebra
 Simple OLED theme built around zebra stripes
 
-![https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/render.png](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/render.png)
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/render.png)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/render.png)
 
 ## Sky High
 Basic theme built around the idea of spaciousness
 
-![https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg)
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg)
 
 ## Stacks
 Nature-themed rice centered on the idea of stacking boxes
 
-<a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/webm.webm">
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/render.png" width=40%>
-</a>
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/webm.webm)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/stacks/render.png)
 
 ## Plateau
 Simple theme that adapts to the background chosen
 
-<div>
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render.png" width=40%>
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render_alt.png" width=40%>
-</div>
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render.png)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render.png)
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render_alt.png)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/plateau/render_alt.png)
 
 ## Cerulean
 Quick rice that was thrown together to make use of the bridge image
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/cerulean/render.jpg" width=40%>
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/cerulean/render.jpg)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/cerulean/render.jpg)
 
 ## Tabs
 Wanted to try cramming a bunch of pictures into one screen
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/tabs/render.png" width=40%>
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/tabs/render.png)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/tabs/render.png)
 
 ## Samori
 Really just wanted to use the Samori painting but was never really happy with how everything outside it turned out
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/screen.png" width=40%>
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/screen.png)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/samori/screen.png)
 
 ## Color Wars
 Someone sent me those 4 Star Wars pics so I threw them together into a rice
 
-<a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/webm.webm">
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/screen.png" width=40%>
-</a>
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/webm.webm)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/color_wars/screen.png)
 
 ## Zen
 Pretty sloppy and incoherent but it was my first foray into animations more or less
 
-<a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/webm.webm">
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/screen.png" width=40%>
-</a>
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/webm.webm)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/zen/screen.png)
 
 ## Install Gentoo
 Dumb meme that everybody makes
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/install_gentoo/screen.png" width=40%>
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/install_gentoo/screen.png)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/install_gentoo/screen.png)
 
 ## Grayhorn
-My first ever KLWP theme and if you think it's awful you're right
+My first ever foray into KLWP and if you think it's awful you're right
 
-<a href="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/webm.webm">
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/screen.png" width=40%>
-</a>
+[![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/webm.webm)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/screen.png)
