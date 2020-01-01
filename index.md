@@ -24,12 +24,12 @@ I haven't done Android ricing in years but check out [homescreens.org](https://h
 ## Dark Zebra
 Simple OLED theme built around zebra stripes
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/render.png" width=40%>
+![https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/render.png](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/dark_zebra/render.png)
 
 ## Sky High
 Basic theme built around the idea of spaciousness
 
-<img src="https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg" width=40%>
+![https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/sky_high/render.jpg)
 
 ## Stacks
 Nature-themed rice centered on the idea of stacking boxes
