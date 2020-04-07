@@ -71,6 +71,6 @@ Dumb meme that everybody makes
 ![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/install_gentoo/screen.png)
 
 ## Grayhorn
-My first ever foray into KLWP and if you think it's awful you're right
+My first ever KLWP and if you think it's awful you're right
 
 [![](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/screen.png)](https://raw.githubusercontent.com/ensorcell/KLWP/homescreens/grayhorn/webm.webm)
